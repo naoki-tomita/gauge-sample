@@ -1,0 +1,8 @@
+target/
+.vscode/
+.idea/
+.gauge/
+gauge_bin/
+logs/
+reports/
+*.iml
